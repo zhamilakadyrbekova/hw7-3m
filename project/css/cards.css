@@ -1,0 +1,45 @@
+.cards-title {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.cards-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 0 20px 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.card-id {
+    color: #888;
+    font-size: 14px;
+}
+
+.card-title {
+    margin: 10px 0;
+    text-transform: capitalize;
+}
+
+.cards-error {
+    color: red;
+    text-align: center;
+    grid-column: 1 / -1;
+}
+main {
+    padding-top: 120px;
+}
+
+.cards-title {
+    text-align: center;
+    margin: 30px 0;
+    color: #222;
+}

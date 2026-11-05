@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kim Taehyung",
+    "age": 30,
+    "profession": "singer",
+    "birthday": "30 December 1995",
+    "height": 1.79
+  },
+  {
+    "name": "Lee Min Ho",
+    "age": 39,
+    "profession": "actor",
+    "birthday": "22 June 1987",
+    "height": 187
+  }
+]
